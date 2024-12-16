@@ -1,6 +1,6 @@
 # Web-Project
 ## to Run Api
- npm i request
+-npm i request
 ## to Run Ui
-### npm i
-### npm start
+1)npm i
+2)npm start
